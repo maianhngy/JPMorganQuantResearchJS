@@ -1,7 +1,7 @@
 # **JPMorganQuantResearchJS**  
-https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
-
 ## **Quantitative Research Job Simulation – Python, Data Analysis & Quantitative Finance**  
+
+https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
 
 ### **Overview**  
 This repository contains my work on the JPMorgan Quantitative Research Job Simulation, focusing on key areas of quantitative finance, data analysis, and risk assessment. The project applies advanced analytical techniques to financial datasets, including price forecasting, derivative pricing, credit risk modeling, and FICO score segmentation.  
