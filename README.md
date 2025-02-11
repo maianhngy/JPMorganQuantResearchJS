@@ -1,4 +1,4 @@
-# **JPMorganQuantResearchJS**  
+# **JP Morgan Quant Research JS**  
 ## **Quantitative Research Job Simulation – Python, Data Analysis & Quantitative Finance**  
 
 https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
